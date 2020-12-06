@@ -1,0 +1,472 @@
+body {
+  font-family: 'Lato',sans-serif; }
+
+h2 {
+  font-family:'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 60pt;
+  color: #111111;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  text-align: left;
+  margin-left: 170px;
+}
+
+h3 {
+  font-family:'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 30pt;
+  margin-top: 380px;
+  margin-right: 0px;
+  margin-left: 400px;
+  text-align: left;
+}
+  #alt {
+    margin-right: auto;
+    margin-top: 270px;
+    text-align: left;
+    margin-left: 57px;
+  }
+
+
+  h4 {
+  font-family:'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 40pt;
+  color: #111111;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  text-align: left;
+  margin-left: 3px;}
+
+.masthead-brand {
+  float: left;
+  padding-top: 0px;
+  margin-top: -30px;
+}
+
+.cover-container {
+  background-color: #F1F1F1;
+}
+
+.container-fluid {
+  width: 100%;
+  margin-bottom: 130px;
+}
+
+.lead {
+  font-size: 20pt;
+  margin-left: 170px;
+  text-align: left;
+  margin-right: 1px;
+}
+
+.lead2 {
+  font-family: 'Lato',sans-serif;
+  font-size: 10pt;
+  margin-right: 10px;
+  margin-left: 404px;
+  text-align: left;
+}
+  #alt1 {
+    margin-right: -10px;
+    margin-left: 62px;
+    text-align: left;
+  }
+.lead3 {
+  font-size: 20pt;
+  margin-bottom: 40px;
+}
+
+#myProfile {
+  margin-right: -45px;
+  margin-top: -250px;
+}
+
+#myArt {
+  margin-top: 130px;
+
+}
+
+#myUX {
+  margin-top: 100px;
+  margin-left: 130px;
+}
+
+footer.mastfoot {
+  padding-top: 50px;
+  float: left;
+  text-align: left;
+  margin-left: 50px;
+  color: #333333;
+  font-family: 'Lato',sans-serif;
+  font-weight: 300;
+}
+
+.text-nowrap {
+  font-family: 'Lato',sans-serif;
+  font-weight: bold;
+  float: left;
+  margin-left: 158px;
+}
+#resume {
+  float: right;
+  margin-right: -110px;
+  font-size: 15pt;
+}
+.underline {
+  border-bottom: 3px solid;
+}
+
+
+a {
+  font-family: 'Lato',sans-serif;
+  font-weight: 300;
+  color: #111111;
+}
+
+a:hover {
+  color: grey;
+}
+
+button:hover {
+  color: #333333 !important;
+}
+
+
+nav {
+  float: right !important;
+}
+
+
+/** About **/
+
+#myImage {
+  height: auto;
+  width: 100%;
+  margin-left: 100px;
+  margin-top: 120px;
+  margin-bottom: 20px;
+}
+
+h5 {
+  font-family:'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 40pt;
+  color: #111111;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  text-align: left;
+  margin-left: 170px;
+}
+
+.lead4 {
+  font-family: font-family: 'Lato',sans-serif;
+  font-size: 20pt;
+  font-weight: 300;
+  margin-left: 170px;
+  text-align: left;
+  margin-right: 130px;
+}
+#end {
+  margin-bottom: 50px;
+}
+
+.resume {
+  margin-left: 100px;
+
+}
+
+#education {
+  margin-bottom: 0px;
+  margin-left: 15px;
+}
+
+.lead5 {
+  font-family: 'Lato',sans-serif;
+  font-size: 20pt;
+  font-weight: 300;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: -280px;
+  margin-top: -30px;
+}
+
+
+.lead6 {
+  font-family: 'Lato',sans-serif;
+  font-size: 15pt;
+  font-weight: 100;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: -800px;
+  margin-bottom: 30px;
+  margin-top: -15px;
+}
+
+.lead7 {
+  font-family: 'Lato',sans-serif;
+  font-size: 15pt;
+  font-weight: 100;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: -800px;
+  margin-top: -20px;
+}
+
+.lead8 {
+  font-family: 'Lato',sans-serif;
+  font-size: 20pt;
+  font-weight: 300;
+  text-align: left;
+  margin-left: 500px;
+  margin-right: -1100px;
+  margin-top: -30px;
+  margin-bottom: 20px;
+}
+.lead9 {
+  font-family: 'Lato',sans-serif;
+  font-size: 15pt;
+  font-weight: 100;
+  text-align: left;
+  margin-left: 500px;
+  margin-right: -1100px;
+  margin-top: -20px;
+}
+
+.lead10 {
+  font-family: 'Lato',sans-serif;
+  font-size: 15pt;
+  font-weight: 100;
+  text-align: left;
+  margin-left: 500px;
+  margin-right: -1100px;
+  margin-top: -15px;
+  margin-bottom: 40px;
+}
+
+.lead11 {
+  font-family: 'Lato',sans-serif;
+  font-size: 15pt;
+  font-weight: 100;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: -800px;
+  margin-bottom: 40px;
+  margin-top: -15px;
+}
+
+.skills {
+  margin-left: 85px;
+}
+
+#skills {
+  margin-left: -15px;
+
+}
+
+.button1 {
+  font-family: 'Lato',sans-serif;
+  font-size: 15pt;
+  font-weight: 300;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 25px;
+
+}
+
+#general {
+  margin-left: 100px;
+  margin-bottom: 80px;
+}
+
+#design {
+  margin-left: 100px;
+  margin-bottom: 80px;
+  margin-right: 500px;
+}
+
+#compL {
+ margin-left: 100px;
+ margin-bottom: 80px;
+}
+
+
+#about {
+  margin-left: 100px;
+
+}
+
+./* Style The Dropdown Button */
+.dropbtn {
+  background-color: transparent;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  font-weight: 300;
+  min-width: 160px;
+  box-shadow: 0px 0px 0px 0px rgba(241,241,241,0.01);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-menu a {
+  color: black;
+  font-weight: 300;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-menu a:hover {background-color: #CCCCCC}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-menu {
+  display: block;
+  border: none;
+  background-color: transparent;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #f1f1f1;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin-top: -15px;
+  margin-bottom: 100px;
+
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+  text-decoration: none;
+
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-linkedin {
+  background: #111111;
+  color: white;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+}
+
+.fa-envelope {
+    background: #111111;
+    color: white;
+    margin-left: 20px;
+    width: 70px;
+    height: 70px;
+
+  }
+
+/* Digital Art */
+
+.lead12 {
+  font-family: font-family: 'Lato',sans-serif;
+  font-size: 20pt;
+  font-weight: 300;
+  margin-left: 500px;
+  text-align: center;
+  margin-right: 340px;
+  justify-content: center;
+}
+
+.art-heading {
+  text-align: center;
+  justify-content: center;
+}
+
+.cropped {
+
+  width: 1590px; /* width of container */
+    height: 964px; /* height of container */
+    object-fit: cover;
+    object-position: 20% 100%;
+
+}
+
+#pink {
+  justify-content: center;
+  margin-left: auto;
+  position: relative;
+  margin-top:90px;
+}
+
+#apx{
+  justify-content: center;
+  position: relative;
+
+
+}
+
+
+#yellow {
+  margin-top: 90px;
+  position: relative;
+
+
+}
+#tan {
+  margin-top: 90px;
+  position: relative;
+
+
+}
+
+#blue {
+  justify-content: center;
+  margin-left: auto;
+  position: relative;
+  margin-top:90px;
+}
+
+.cropped2 {
+
+  width: 720px ; /* width of container */
+    height: 922px; /* height of container */
+    object-fit: cover;
+    object-position: 100% 100%;
+
+
+}
+.cropped3 {
+
+  width: 720px; /* width of container */
+    height: 922px; /* height of container */
+    object-fit: cover;
+    object-position: 50% 100%;
+
+}
