@@ -225,6 +225,9 @@ h5 {
   margin-top: -30px;
   margin-bottom: 20px;
 }
+#extension {
+  margin-left: 200px;
+}
 .lead9 {
   font-family: 'Lato',sans-serif;
   font-size: 15pt;
