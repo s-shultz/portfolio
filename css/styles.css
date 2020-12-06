@@ -345,7 +345,7 @@ h5 {
 .dropdown:hover .dropdown-menu {
   display: block;
   border: none;
-  background-color: transparent;
+  background-color: #F1F1F1;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
