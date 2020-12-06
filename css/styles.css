@@ -220,19 +220,21 @@ h5 {
   font-size: 20pt;
   font-weight: 300;
   text-align: left;
-  margin-left: 500px;
+  margin-left: 600px;
+  margin-right: -1100px;
   margin-top: -30px;
   margin-bottom: 20px;
 }
 #extension {
-  margin-left: 200px;
+  margin-left: 600px;
 }
 .lead9 {
   font-family: 'Lato',sans-serif;
   font-size: 15pt;
   font-weight: 100;
   text-align: left;
-  margin-left: 500px;
+  margin-left: 600px;
+  margin-right: -1100px;
   margin-top: -20px;
 }
 
