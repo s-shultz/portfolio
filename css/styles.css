@@ -17,7 +17,7 @@ h3 {
   font-family:'Playfair Display', serif;
   font-weight: bold;
   font-size: 30pt;
-  margin-top: 100px;
+  margin-top: 120px;
   margin-right: 20px;
   margin-left: 200px;
   justify-content: center;
@@ -67,8 +67,9 @@ h3 {
 .lead2 {
   font-family: 'Lato',sans-serif;
   font-size: 10pt;
-  margin-right: 10px;
-  margin-left: 404px;
+  margin-right: 20px;
+  margin-left: 200px;
+  justify-content: center;
   text-align: left;
 }
   #alt1 {
