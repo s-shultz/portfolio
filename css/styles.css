@@ -1,3 +1,4 @@
+
 body {
   font-family: 'Lato',sans-serif;
   max-width: 100%;
@@ -89,6 +90,7 @@ h3 {
 #myProfile {
   margin-right: -45px;
   margin-top: -250px;
+  max-width: 100%;
 }
 
 #myArt {
@@ -145,7 +147,7 @@ button:hover {
 
 nav {
   float: right !important;
-  max-width: 100%
+  max-width: 100%;
 }
 
 
